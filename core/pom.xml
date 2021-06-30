@@ -102,6 +102,16 @@
 			<artifactId>geronimo-annotation_1.3_spec</artifactId>
 			<version>1.0</version>
 			<groupId>org.apache.geronimo.specs</groupId>
+		</dependency>
+		<dependency>
+			<artifactId>commons-email</artifactId>
+			<version>1.5</version>
+			<groupId>org.apache.commons</groupId>
 		</dependency>         
+		<dependency>
+			<artifactId>commons-lang</artifactId>
+			<version>2.6</version>
+			<groupId>commons-lang</groupId>
+		</dependency>		
     </dependencies>
 </project>

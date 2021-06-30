@@ -1,0 +1,3 @@
+Subject: Sending Mail from Cool Drinks
+
+Dear ${firstname},
